@@ -1,0 +1,35 @@
+h3{
+    color: rebeccapurple;
+    font-size: 25px;
+}
+
+#saarc{
+    color: #ff0000;
+    font-size: 30px;
+    background-color: teal;
+}
+.mbs {
+    color: gold;
+    font-size: 20px;
+}
+header {
+    background-color: springgreen;
+    text-align: center;
+    padding: 3%;
+    text-decoration-line: underline;
+}
+section {
+    background-color: rgb(118, 173, 185);
+    text-align: center;
+    padding: 3%;
+}
+
+
+* {
+    
+    color: rgb(209, 12, 153);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}

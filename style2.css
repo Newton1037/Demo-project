@@ -1,0 +1,33 @@
+*{
+    font-size: 32px;
+    
+    
+}
+b{
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.para{
+    word-spacing: 100;
+    font-weight: 700;
+
+}
+
+#mbs{
+
+    color: red;
+}
+#ind{
+    text-decoration: underline;
+}
+tr{
+    line-height: 2em;
+}
+table{
+    text-align: center;
+
+}
+tbody{
+    word-spacing: 4;
+}
